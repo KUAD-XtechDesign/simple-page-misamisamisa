@@ -1,0 +1,39 @@
+html {
+  color: rgb(255, 255, 255);
+  background: rgba(131, 189, 212, 0.897);
+
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+img{
+  max-width: 60%;
+  height:auto;
+}
+
+a{
+  color:rgb(255, 255, 255);
+}
+
+li{
+  list-style-position: inside;
+}
+
+
+.mb_s{
+  margin-bottom: 10px;
+}
+
+.mb_m{
+  margin-bottom: 20px;
+}
+
+.mb_l{
+  margin-bottom: 40px;
+}
