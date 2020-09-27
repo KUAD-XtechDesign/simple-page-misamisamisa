@@ -1,0 +1,15 @@
+
+body{
+    background-color: #ffffff;
+}
+
+.wrapper{
+    width: 1000px;
+    background-color: #8dc63f;
+    margin: 30px auto;
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+}
